@@ -1,4 +1,4 @@
-import { MainComponent } from './../components/main.components';
+import { MainComponent } from '../components/main.components';
 import { Component } from '@angular/core';
 
 @Component({
